@@ -1,3 +1,9 @@
+'''
+implementing the reference,20200301
+https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/03-Play-with-MNIST
+TensorFlow-2.x-Tutorials/03-Play-with-MNIST/
+
+'''
 
 import  tensorflow as tf
 
