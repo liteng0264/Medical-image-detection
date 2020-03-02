@@ -18,3 +18,4 @@ for img in filenames:
     filename = dirname+ imgname[j]
     cv2.imwrite(dirname+imgname[j],image)
     j += 1
+    #good
